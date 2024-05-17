@@ -62,7 +62,7 @@
                 android:autofillHints=""
                 android:ems="10"
                 android:hint="@string/cost_of_service"
-                android:inputType="text"
+                android:inputType="numberDecimal"
                 app:layout_constraintEnd_toEndOf="parent"
                 app:layout_constraintStart_toStartOf="parent"
                 app:layout_constraintTop_toTopOf="parent"
