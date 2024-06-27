@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Final Fantasy Triple Triad</string>
+    <string name="imageVG">Cover</string>
+    <string name="titleVG">Title</string>
+    <string name="description">Genre:</string>
+    <string name="lorem_ipsum">Lorem Ipsum</string>
+    <string name="trailer">Trailer</string>
+    <string name="synopsis">Synopsis:</string>
+    <string name="genredesc">Genre</string>
+    <string name="yearMovie">1990</string>
+    <string name="descriptionText">Patch:</string>
+    <string name="ownText">Owned:</string>
+    <string name="owned">own</string>
+</resources>
